@@ -1,4 +1,4 @@
-#In Game Name Generator using OpenAi
+# In Game Name Generator using OpenAi
 
 1. Clone the repo and install all dependencies
 2. Run by running 'npm run dev'
